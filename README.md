@@ -18,7 +18,7 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 
 
 ## Summary
-
+After all 3 deliverables were completed I was left with a fully functioning website application created using Flask that also included images, a table with Mars and Earth Facts, as well as the most recent artile title and short description scrapped from NASA's website.
 
 ## Resources
 Data Sources: 'https://data-class-mars.s3.amazonaws.com/Mars/index.html', 'https://marshemispheres.com/'
