@@ -15,7 +15,7 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 <img width="600" alt="mission to mars pre bootstrap" src="https://user-images.githubusercontent.com/104927745/185812071-55a66d31-8167-45fa-8b5b-b36069d08dd9.PNG">
 
 ## Adding Bootstrap 3 To the HTML Page
-<img width="600" alt="mission to mars pre bootstrap" src="https://user-images.githubusercontent.com/104927745/185813134-c8cd89a9-339a-4cfa-9f2d-83985710cf1d.PNG">
+<img width="600" alt="mission to mars post bootstrap" src="https://user-images.githubusercontent.com/104927745/185813159-63a755ea-8ebd-46f8-9dc8-d6f96bced91d.PNG">
 
 ## Summary
 After all 3 deliverables were completed I was left with a fully functioning website application created using Flask that also included images, a table with Mars and Earth Facts, as well as the most recent artile title and short description scrapped from NASA's website.
