@@ -12,10 +12,10 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 <img width="500" alt="image urls" src="https://user-images.githubusercontent.com/104927745/185809188-24d37c04-1c16-4fa2-9753-1cbdf8173cc3.PNG">
 
 ### Adding the scrapped data to our HTML Webpage
-<img width="500" alt="mission to mars pre bootstrap" src="https://user-images.githubusercontent.com/104927745/185812071-55a66d31-8167-45fa-8b5b-b36069d08dd9.PNG">
+<img width="600" alt="mission to mars pre bootstrap" src="https://user-images.githubusercontent.com/104927745/185812071-55a66d31-8167-45fa-8b5b-b36069d08dd9.PNG">
 
 ## Adding Bootstrap 3 To the HTML Page
-
+<img width="600" alt="mission to mars pre bootstrap" src="https://user-images.githubusercontent.com/104927745/185813134-c8cd89a9-339a-4cfa-9f2d-83985710cf1d.PNG">
 
 ## Summary
 After all 3 deliverables were completed I was left with a fully functioning website application created using Flask that also included images, a table with Mars and Earth Facts, as well as the most recent artile title and short description scrapped from NASA's website.
