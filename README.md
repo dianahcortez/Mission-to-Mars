@@ -23,4 +23,4 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 ## Resources
 Data Sources: 'https://data-class-mars.s3.amazonaws.com/Mars/index.html', 'https://marshemispheres.com/'
 
-Software: Python, HTML, Jupyter Notebook
+Software: VS Code, Python, HTML, Jupyter Notebook
