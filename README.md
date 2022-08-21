@@ -15,6 +15,10 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 <img width="600" alt="mission to mars pre bootstrap" src="https://user-images.githubusercontent.com/104927745/185812071-55a66d31-8167-45fa-8b5b-b36069d08dd9.PNG">
 
 ## Adding Bootstrap 3 To the HTML Page
+- Updating the Title Color to Aquamarine
+- Updating the Latest Mars News section to be centered 
+- Updated the sizing of Mars Hemisphere photos smaller to they fit on one line
+ 
 <img width="600" alt="mission to mars post bootstrap" src="https://user-images.githubusercontent.com/104927745/185813159-63a755ea-8ebd-46f8-9dc8-d6f96bced91d.PNG">
 
 ## Summary
